@@ -40,6 +40,17 @@ authors:
       - Oxford Protein Informatics Group, Department of Statistics, University of Oxford, Oxford OX1 3LB, United Kingdom
       
       
+  - github: norbertvolkmar 
+    name: Norbert Volkmar
+    initials: NV
+    orcid: 0000-0003-0766-5606
+    twitter: @NorbertVolkmar
+    email: volkmar@imsb.biol.ethz.ch
+    affiliations: 
+    - Department of Biology, Institute of Molecular Systems Biology, ETH Zurich, Zurich 8093, Switzerland
+    - DISCO Pharmaceuticals GmbH, Cologne 51105, Germany   
+
+
   - github: dschust-r
     name: Dina Schuster
     initials: DS
